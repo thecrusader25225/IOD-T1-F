@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Polymerdirty",
+        "confidence": 0.5585089325904846,
+        "bbox": [
+            345,
+            153,
+            441,
+            252
+        ]
+    },
+    {
+        "label": "Polymerdirty",
+        "confidence": 0.4624534249305725,
+        "bbox": [
+            280,
+            254,
+            369,
+            376
+        ]
+    }
+]
