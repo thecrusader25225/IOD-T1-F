@@ -1,4 +1,4 @@
-# GOD-T1-F
+# IOD-T1-F
 
 This project consists of a **YOLOv8 object detection API** running in a **Docker container**, along with a **frontend (React + Vite)** and a **backend (Node.js + Express)** to interact with it.
 
